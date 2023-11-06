@@ -1,0 +1,31 @@
+/**
+ * Author: Theo lesage
+ * licence: GPL3
+ * file: frontpage-style.css
+ */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    height: 75px;
+}
+
+.items-container{
+    display: flex;
+    gap: 2rem;
+}
+
+#app{
+    min-height: calc(100vh - 75px);
+    display: grid;
+    place-items: center;
+}
+
+.global-footer{
+    min-height: 90px;
+    background-color: #0003;
+    display: grid;
+    place-items: center;
+}

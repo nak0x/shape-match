@@ -1,0 +1,24 @@
+/**
+ * Author: Théo LESAGE
+ * Licencs: GPL3
+ * Date: 05/11/23
+ * File: index.css
+ * Project: Shape match
+ */
+
+/**
+ * Organisation
+ *
+ * index: Reset and file indexing.
+ * main: ui kit
+ * name-style: per page stylesheet
+ */
+
+/* Reset */
+@import url("./reset.css");
+
+/* Ui KIT*/
+@import url("./main.css");
+
+/* Per page style */
+@import url("./frontpage-style.css")

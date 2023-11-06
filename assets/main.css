@@ -1,0 +1,30 @@
+/**
+ * Author: Theo Lesage
+ * File: main.css
+ */
+
+:root{
+    /* Colors */
+
+    --text: #1f1f1f;
+    --background: #fefefe;
+    
+    --accent: #8338EC;
+    --accent-darker: #5e3892;
+    --gradient: linear-gradient(180deg, #8338EC 0%, #3A86FF 100%);
+}
+
+/* Add the color scheme switcher */
+
+.btn{
+    background-color: var(--accent);
+    color: #fff;
+    padding: 8px 24px;
+    border-radius: 10px;
+    font-size: 1.05em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: var(--accent-darker);
