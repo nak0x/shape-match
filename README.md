@@ -5,6 +5,5 @@ The goal of shape Match is to provide to designers a mini game to train visual a
 
 ## UI
 
-![Alt text](URL "Title")
 
-![ShapeMatch ui](URL "https://raw.githubusercontent.com/nak0x/shape-match/main/repo-assets/front-page.png")
+![ShapeMatch ui](https://raw.githubusercontent.com/nak0x/shape-match/main/repo-assets/front-page.png "Front page")
